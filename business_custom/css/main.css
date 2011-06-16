@@ -1,0 +1,24 @@
+/*reset*/
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,p,blockquote,th,td{margin:0;padding:0;}
+fieldset,img{border:none;}
+li{list-style:none;}
+h1,h2,h3,h4,h5,h6{font-size:100%;}
+input,button,textarea,select{font-size:100%;font-family:inherit;font-size:inherit;font-weight:inherit;}
+.clear{clear:both;}
+.clearfix:after{content:".";display:block;clear:both;height:0;visibility:hidden;}
+.clearfix{_height:1%;*zoom:1;}
+body{color:#333;font:12px/1.5 "宋体", Helvetica, Arial, sans-serif;}
+#content{width:960px;margin:0 auto;}
+.business_customer img{vertical-align:top;}
+.bc_form{height:386px;padding:0 130px 0 240px;background:url(images/business_cunstomer_06.gif) no-repeat;}
+.bc_form h3.title{color:#fff;font-weight:400;text-align:center;line-height:40px;font-size:14px;}
+.bc_form ul{padding:0 65px;}
+.bc_form li{float:left;width:460px;overflow:hidden;line-height:23px;margin:3px 0;}
+.bc_form li label{float:left;width:60px;}
+.bc_form li input{float:left;width:190px;height:23px;line-height:23px;padding:0 3px;border:1px solid #DFDFE3;border-top:1px solid #ABADB3;}
+.bc_form li span.warning{float:left;padding-left:7px;color:#f00;}
+.bc_form li select{float:left;margin-right:6px;width:96px;}
+.bc_form li span.citywaring{padding-left:1px;}
+.bc_form li span.textareawarning{}
+.bc_form li .enter_text{float:left;}
+.bc_form li textarea{display:block;width:290px;height:70px;padding:3px;}
